@@ -57,7 +57,7 @@ private static String str="this is a test of java";
 		if('s'==str.charAt(i)){
 		count++;
 		}
-	}
+		}
 		System.out.println("s出现的次数"+count);
 	}
-	}
+}
